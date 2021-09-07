@@ -9,6 +9,17 @@ Karşılaştırma işlemleri tamamlandıktan sonra sonuç Datatable olarak alın
 Kesinlikle revize ihtiyacı bulunmaktadır.
 
 
+```
+      if (dtExcel.Rows[exceli]["Parça Adı"].ToString()== dtokunansayfalar.Rows[okunani]["Parça Adı"].ToString())
+                            {
+                               ...
+                            }
+```
+
+Proje içerisinde dinamik olmayan alanlar mevcuttur. 
+Dilerseniz burayı, excel ayarlarını yaparken orada da birincil anahtar olarak seçtirebilir, dinamikleştirebilirsiniz.
+
+
 
 
 ![1](https://user-images.githubusercontent.com/44155358/132335155-9377b89d-6f3a-4a52-8d85-7b17f5269add.png)
