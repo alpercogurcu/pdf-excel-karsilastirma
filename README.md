@@ -6,7 +6,8 @@ PDF Sayfa boyutu ve karşılaştırılacak alanların X-Y değerleri sabit oldu�
 
 Karşılaştırma işlemleri tamamlandıktan sonra sonuç Datatable olarak alınır. 
 
-Kesinlikle revize ihtiyacı bulunmaktadır.
+**Kesinlikle revize ihtiyacı bulunmaktadır.**
+
 
 
 ```
